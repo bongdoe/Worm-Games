@@ -2,7 +2,7 @@
 
 A modern 3D take on the classic Nokia-era Snake game, packed into **one HTML file**.
 
-**[▶ Open the live artwork](https://bongdoe.github.io/Worm-Games/)**
+**[▶ Play the game](https://bongdoe.github.io/Worm-Games/)**
 
 `index.html` has everything built in: the game, the Three.js 3D engine, styles and fonts. It needs no install, no server, and no internet connection.
 
